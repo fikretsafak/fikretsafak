@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fikret Şafak</h1>
-<h3 align="center">A passionate control system engineer at Kontrolmatik Technology</h3>
+<h3 align="center">A passionate Control System Engineer at Kontrolmatik Technology</h3>
 
 - 🔭 I’m currently working on [OPC DA Datalogger](https://github.com/fikretsafak/OPCdatalogger)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Node js**
 
 - 👨‍💻 All of my projects are available at [fikretsafak.com](fikretsafak.com)
 
