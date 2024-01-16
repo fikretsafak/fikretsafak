@@ -15,7 +15,6 @@
 <a href="https://instagram.com/fikret.safak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fikret.safak" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fikretsafak&show_icons=true&theme=tokyonight" /></p>
