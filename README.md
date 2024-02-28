@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fikret Şafak</h1>
 <h3 align="center">A passionate Control System Engineer at Kontrolmatik Technology</h3>
 
-- 🔭 I’m currently working on [OPC DA Datalogger](https://github.com/fikretsafak/OPCdatalogger)
+- 🔭 I’m currently working on [Modbus TCP/RTU MQTT Data Gateway](https://github.com/fikretsafak/OPCdatalogger)
 
 - 🌱 I’m currently learning **Node js**
 
